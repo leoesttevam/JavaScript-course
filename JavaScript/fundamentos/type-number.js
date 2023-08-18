@@ -1,5 +1,6 @@
 // Tipo Number
 
+// const quando declarado o valor não muda "Não pode ser redeclarada"
 const meuNumero = 3;
 
 const primeiroNumero = 1;
